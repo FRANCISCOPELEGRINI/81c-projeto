@@ -1,13 +1,12 @@
 #myCanvas{
-    border-width:10px ;
+    border-width: 10px;
     border-style: ridge;
     background-color:red;
     }
 
 h1{
-    color:black
-}
-bodyBackgorund{
+    color:greenyellow}
+.bodyBackgorund{
     background-color: red;
 }
 
